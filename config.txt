@@ -1,0 +1,6 @@
+owner=هنا الايد بتعك
+prefix=1
+game=1paly
+stayinchannel=1paly
+songinstatus=false
+token=NjQ4ODgzNDIyMTY0NjgwNzA1.XeGtcg.l5sly9iGN-QU6lCw_H7_Av9gghw
